@@ -1,3 +1,5 @@
+"use strict";
+
 const colors = document.querySelectorAll(".color");
 colors.forEach((color) => {
     color.addEventListener("mouseover", () => {
